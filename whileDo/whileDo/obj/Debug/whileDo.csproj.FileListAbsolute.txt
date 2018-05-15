@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Camila c#\whileDo\whileDo\bin\Debug\whileDo.exe.config
+C:\Users\student\Desktop\Camila c#\whileDo\whileDo\bin\Debug\whileDo.exe
+C:\Users\student\Desktop\Camila c#\whileDo\whileDo\bin\Debug\whileDo.pdb
+C:\Users\student\Desktop\Camila c#\whileDo\whileDo\obj\Debug\whileDo.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Camila c#\whileDo\whileDo\obj\Debug\whileDo.exe
+C:\Users\student\Desktop\Camila c#\whileDo\whileDo\obj\Debug\whileDo.pdb

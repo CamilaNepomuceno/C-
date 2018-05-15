@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Camila c#\guessNumber\guessNumber\bin\Debug\guessNumber.exe.config
+C:\Users\student\Desktop\Camila c#\guessNumber\guessNumber\bin\Debug\guessNumber.exe
+C:\Users\student\Desktop\Camila c#\guessNumber\guessNumber\bin\Debug\guessNumber.pdb
+C:\Users\student\Desktop\Camila c#\guessNumber\guessNumber\obj\Debug\guessNumber.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Camila c#\guessNumber\guessNumber\obj\Debug\guessNumber.exe
+C:\Users\student\Desktop\Camila c#\guessNumber\guessNumber\obj\Debug\guessNumber.pdb
