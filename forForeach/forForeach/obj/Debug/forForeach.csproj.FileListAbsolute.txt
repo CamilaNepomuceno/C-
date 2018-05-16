@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Camila c#\forForeach\forForeach\bin\Debug\forForeach.exe.config
+C:\Users\student\Desktop\Camila c#\forForeach\forForeach\obj\Debug\forForeach.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Camila c#\forForeach\forForeach\bin\Debug\forForeach.exe
+C:\Users\student\Desktop\Camila c#\forForeach\forForeach\bin\Debug\forForeach.pdb
+C:\Users\student\Desktop\Camila c#\forForeach\forForeach\obj\Debug\forForeach.exe
+C:\Users\student\Desktop\Camila c#\forForeach\forForeach\obj\Debug\forForeach.pdb

@@ -1,1 +1,6 @@
 C:\Users\student\Desktop\Camila c#\methods\methods\bin\Debug\methods.exe.config
+C:\Users\student\Desktop\Camila c#\methods\methods\bin\Debug\methods.exe
+C:\Users\student\Desktop\Camila c#\methods\methods\bin\Debug\methods.pdb
+C:\Users\student\Desktop\Camila c#\methods\methods\obj\Debug\methods.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Camila c#\methods\methods\obj\Debug\methods.exe
+C:\Users\student\Desktop\Camila c#\methods\methods\obj\Debug\methods.pdb
