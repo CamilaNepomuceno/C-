@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\CamilaC\ConstructorCamila\ConstructorCamila\bin\Debug\ConstructorCamila.exe.config
+C:\Users\student\Desktop\CamilaC\ConstructorCamila\ConstructorCamila\bin\Debug\ConstructorCamila.exe
+C:\Users\student\Desktop\CamilaC\ConstructorCamila\ConstructorCamila\bin\Debug\ConstructorCamila.pdb
+C:\Users\student\Desktop\CamilaC\ConstructorCamila\ConstructorCamila\obj\Debug\ConstructorCamila.exe
+C:\Users\student\Desktop\CamilaC\ConstructorCamila\ConstructorCamila\obj\Debug\ConstructorCamila.pdb
+C:\Users\student\Desktop\CamilaC\ConstructorCamila\ConstructorCamila\obj\Debug\ConstructorCamila.csprojResolveAssemblyReference.cache
