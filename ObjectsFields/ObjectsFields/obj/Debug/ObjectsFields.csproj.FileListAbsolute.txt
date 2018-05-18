@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\CamilaC\ObjectsFields\ObjectsFields\bin\Debug\ObjectsFields.exe.config
+C:\Users\student\Desktop\CamilaC\ObjectsFields\ObjectsFields\bin\Debug\ObjectsFields.exe
+C:\Users\student\Desktop\CamilaC\ObjectsFields\ObjectsFields\bin\Debug\ObjectsFields.pdb
+C:\Users\student\Desktop\CamilaC\ObjectsFields\ObjectsFields\obj\Debug\ObjectsFields.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\CamilaC\ObjectsFields\ObjectsFields\obj\Debug\ObjectsFields.exe
+C:\Users\student\Desktop\CamilaC\ObjectsFields\ObjectsFields\obj\Debug\ObjectsFields.pdb
