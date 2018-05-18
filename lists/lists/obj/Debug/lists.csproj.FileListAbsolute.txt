@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Camila c#\lists\lists\bin\Debug\lists.exe.config
+C:\Users\student\Desktop\Camila c#\lists\lists\bin\Debug\lists.exe
+C:\Users\student\Desktop\Camila c#\lists\lists\bin\Debug\lists.pdb
+C:\Users\student\Desktop\Camila c#\lists\lists\obj\Debug\lists.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Camila c#\lists\lists\obj\Debug\lists.exe
+C:\Users\student\Desktop\Camila c#\lists\lists\obj\Debug\lists.pdb

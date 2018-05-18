@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\Camila c#\ErrorHandFileExample\ErrorHandFileExample\bin\Debug\ErrorHandFileExample.exe.config
+C:\Users\student\Desktop\CamilaC\ErrorHandFileExample\ErrorHandFileExample\bin\Debug\ErrorHandFileExample.exe.config
+C:\Users\student\Desktop\CamilaC\ErrorHandFileExample\ErrorHandFileExample\bin\Debug\ErrorHandFileExample.exe
+C:\Users\student\Desktop\CamilaC\ErrorHandFileExample\ErrorHandFileExample\bin\Debug\ErrorHandFileExample.pdb
+C:\Users\student\Desktop\CamilaC\ErrorHandFileExample\ErrorHandFileExample\obj\Debug\ErrorHandFileExample.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\CamilaC\ErrorHandFileExample\ErrorHandFileExample\obj\Debug\ErrorHandFileExample.exe
+C:\Users\student\Desktop\CamilaC\ErrorHandFileExample\ErrorHandFileExample\obj\Debug\ErrorHandFileExample.pdb
